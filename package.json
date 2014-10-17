@@ -1,0 +1,32 @@
+{
+  "name": "mysql-simple",
+  "version": "0.0.1",
+  "description": "a module of mysql operate based node-mysql",
+  "main": "index.js",
+  "scripts": {
+    "test" : "mocha ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameslong/mysql-simple.git"
+  },
+  "dependencies" : {
+    "mysql" : "2.5.2"
+  },
+  "devDependencies" : {
+    "mocha" : "*"
+  },
+  "keywords": [
+    "mysql",
+    "mysql-crud",
+    "crud",
+    "mysql crud"
+  ],
+  "author": {
+    "name" : "jameslong",
+    "email" : "james.long169@gmail.com"
+  },
+  "contributors" : [],
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
