@@ -1,5 +1,5 @@
 {
-  "name": "mysql-simple",
+  "name": "mysql-crudor",
   "version": "0.0.1",
   "description": "a module of mysql operate based node-mysql",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jameslong/mysql-simple.git"
+    "url": "git://github.com/jameslong/mysql-crudor.git"
   },
   "dependencies" : {
     "mysql" : "2.5.2"
